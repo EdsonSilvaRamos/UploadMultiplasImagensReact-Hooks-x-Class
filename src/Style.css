@@ -1,3 +1,47 @@
+body{
+    background: #2b2d42;
+    color: #8d99ae;
+}
+
+h2{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.container{
+    margin-top: 25px;
+    width: 360px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputFile{    
+    display: none;
+}
+
+.btn-cta {
+    background: #8d99ae;
+    border: 1px solid #424242;
+    border-radius: 5px;
+    color: #000000;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 5px;
+    width: 200px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+  }
+
+.container-preview{
+    width: 100%;    
+    margin-top: 25px;
+    text-align: center;
+}  
+
 .centralizar{
     text-align: center;
+    margin: 2px;
+    border-radius: 7px;
+    border: 1px solid #424242;
 }
