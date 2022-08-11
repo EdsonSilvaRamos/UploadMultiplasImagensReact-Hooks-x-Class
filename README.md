@@ -1,1 +1,1 @@
-# Um mini App que criei para solucionar um problema que eu tive com preview de imagens
+## Um mini App que criei para solucionar um problema que tive com preview de multiplas imagens
